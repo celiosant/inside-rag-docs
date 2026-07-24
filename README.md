@@ -10,7 +10,7 @@
 
 ## 🎯 Objetivo
 
-Permitir que usuários façam perguntas em português sobre uma base de documentos públicos (ex: resoluções do MPRN, normas internas, editais) e recebam **respostas fundamentadas**. 
+Permitir que usuários façam perguntas em português sobre uma base de documentos públicos e recebam **respostas fundamentadas**. 
 
 O sistema minimiza alucinações de LLMs ao garantir que toda resposta gerada seja estritamente baseada nos trechos recuperados da base vetorial, informando explicitamente **de qual documento e trecho a informação foi extraída**.
 
